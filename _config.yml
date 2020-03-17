@@ -5,11 +5,11 @@ description: A blog about lorem ipsum dolor sit amet
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
+username: Hacker Wagon
+user_description: Hacker Wagon is an initiative aimed to revolutionize the world of cybersecurity trainings in a unique manner. Our team has an overall experience of over 15 years in the field of Information Security and expertise ranging from Penetration testing to Incident Rsponse to Digital Forensics. With ample technical know how and a deep understanding of people in the cyber sphere and the problems they face. The team at Hacker Wagon has designed a unique bootcamp experience, that will help you take your first steps on your path in a fun and collaborative manner.
+#user_title: Software Developer
+email: info@hackerwagon.com
+twitter_username: @HackerWagon
 github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
 
