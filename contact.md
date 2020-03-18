@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
-permalink: /#contact/
+title: Contact Us
+permalink: #contact
 ---
 
 <form accept-charset="UTF-8" action="https://getform.io/f/def2dde7-2ee5-4095-b67f-dc3ee4d24aa9" method="POST" enctype="multipart/form-data" target="_blank">
