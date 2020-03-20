@@ -4,7 +4,7 @@ title: Contact
 ---
 
 <script type="text/javascript">var submitted=false;</script>
-     <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='THE REDIRECT LINK HERE';}"></iframe>
+     <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='https://hackerwagon.com';}"></iframe>
 
     <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSf45UsqkVfmAMvS0oeS1SF6a3MxJwAyBRG-LXQN91WEF0qXfA/formResponse" method="post" target="hidden_iframe"
     onsubmit="submitted=true;">
