@@ -1,11 +1,4 @@
-    <!-- <script type="text/javascript">var submitted=false;</script>-->
-<script type="text/jquery>
-              setTimeout(function() {
-    var $head = $("#hidden_iframe").contents().find("head");                
-    $head.append($("<link/>", 
-        { rel: "stylesheet", href: "{{ "/assets/css/main.css" | prepend: site.baseurl }}", type: "text/css" }
-    ));                
-}, 1); </script>
+     <!--<script type="text/javascript">var submitted=false;</script>-->
      <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)  {window.location='https://hackerwagon.com';}"></iframe>
 
     <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSf45UsqkVfmAMvS0oeS1SF6a3MxJwAyBRG-LXQN91WEF0qXfA/formResponse" method="post" target="hidden_iframe"
