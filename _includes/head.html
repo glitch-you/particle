@@ -6,6 +6,10 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   
-  <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+  <link href="css/prism.css" rel="stylesheet">
+  <link href="css/ghpages-materialize.css" type="text/css" rel="stylesheet" media="screen,projection">
+  <link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
 </head>
